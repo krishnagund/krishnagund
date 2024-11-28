@@ -18,10 +18,6 @@
 - 📫 How to reach me krishnagund945@gmail.com
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnagund&show_icons=true&count_private=true&hide=prs&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnagund&layout=compact&langs_count=6&theme=dark" width="48%" />
-</p>
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -85,7 +81,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnagund&show_icons=true&count_private=true&hide=prs&theme=dark" width="62%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnagund&layout=compact&langs_count=6&theme=dark" width="34%" />
+</p>
 
 
   ### Connect With Me
