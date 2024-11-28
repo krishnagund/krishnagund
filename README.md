@@ -88,10 +88,21 @@
 
 
   ### Connect With Me
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-linkedin-username>/)
-  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/<your-codechef-username>)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/<your-hackerrank-username>)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/<your-instagram-username>/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/<your-linkedin-username>/">
+    <img src="https://img.icons8.com/ios/452/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/<your-codechef-username>">
+    <img src="https://img.icons8.com/ios/452/codechef.png" alt="CodeChef" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/<your-hackerrank-username>">
+    <img src="https://img.icons8.com/ios/452/hackerrank.png" alt="HackerRank" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/<your-instagram-username>/">
+    <img src="https://img.icons8.com/ios/452/instagram.png" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
 
 
   
