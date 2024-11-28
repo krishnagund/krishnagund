@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
-![Profile Views](https://komarev.com/ghpvc/?username=<krishnagund>&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=krishnagund&color=blue)
 
 
 
@@ -79,6 +79,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
 </p>
 
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnagund&show_icons=true&theme=radical)
 
 
   ### Connect With Me
