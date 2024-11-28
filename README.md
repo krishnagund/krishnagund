@@ -12,7 +12,15 @@
 
 
 - 🔭 Currently Working On Mern Stack and Full Stack Development
-- 📫 How to reach me khizert077@gmail.com
+- 📫 How to reach me krishnagund945@gmail.com
+  
+  ### Connect With Me
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-linkedin-username>/)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/<your-codechef-username>)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/<your-hackerrank-username>)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/<your-instagram-username>/)
+
+
   
 
 
