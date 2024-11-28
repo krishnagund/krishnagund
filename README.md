@@ -10,9 +10,9 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/<your-username>&title=Profile%20Views)
 
-### 🔭 Currently Working On
-- Mern Stack
-- Full Stack Development
+
+- 🔭 Currently Working On Mern Stack and Full Stack Development
+- 📫 How to reach me khizert077@gmail.com
   
 
 
